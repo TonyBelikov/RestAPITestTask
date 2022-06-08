@@ -1,0 +1,11 @@
+{
+  "base_url": {
+    "label": "Данные для работы с swagger",
+    "value": {
+      "url": {
+        "label": "Ссылка на Swagger",
+        "value": "https://qaquiz.juicyscore.net"
+      }
+    }
+  }
+}
